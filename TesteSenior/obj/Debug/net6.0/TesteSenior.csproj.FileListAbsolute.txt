@@ -1,0 +1,15 @@
+/Users/juanlopes/Projects/TesteSenior/TesteSenior/bin/Debug/net6.0/TesteSenior
+/Users/juanlopes/Projects/TesteSenior/TesteSenior/bin/Debug/net6.0/TesteSenior.deps.json
+/Users/juanlopes/Projects/TesteSenior/TesteSenior/bin/Debug/net6.0/TesteSenior.runtimeconfig.json
+/Users/juanlopes/Projects/TesteSenior/TesteSenior/bin/Debug/net6.0/TesteSenior.dll
+/Users/juanlopes/Projects/TesteSenior/TesteSenior/bin/Debug/net6.0/TesteSenior.pdb
+/Users/juanlopes/Projects/TesteSenior/TesteSenior/obj/Debug/net6.0/TesteSenior.csproj.AssemblyReference.cache
+/Users/juanlopes/Projects/TesteSenior/TesteSenior/obj/Debug/net6.0/TesteSenior.GeneratedMSBuildEditorConfig.editorconfig
+/Users/juanlopes/Projects/TesteSenior/TesteSenior/obj/Debug/net6.0/TesteSenior.AssemblyInfoInputs.cache
+/Users/juanlopes/Projects/TesteSenior/TesteSenior/obj/Debug/net6.0/TesteSenior.AssemblyInfo.cs
+/Users/juanlopes/Projects/TesteSenior/TesteSenior/obj/Debug/net6.0/TesteSenior.csproj.CoreCompileInputs.cache
+/Users/juanlopes/Projects/TesteSenior/TesteSenior/obj/Debug/net6.0/TesteSenior.dll
+/Users/juanlopes/Projects/TesteSenior/TesteSenior/obj/Debug/net6.0/refint/TesteSenior.dll
+/Users/juanlopes/Projects/TesteSenior/TesteSenior/obj/Debug/net6.0/TesteSenior.pdb
+/Users/juanlopes/Projects/TesteSenior/TesteSenior/obj/Debug/net6.0/TesteSenior.genruntimeconfig.cache
+/Users/juanlopes/Projects/TesteSenior/TesteSenior/obj/Debug/net6.0/ref/TesteSenior.dll
